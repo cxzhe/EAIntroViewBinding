@@ -22,4 +22,4 @@ sharpie bind -output EAIntroView -namespace EAIntroView -sdk iphoneos9.0 ~/EAInt
 
 ###Binding by cxzhe [Weibo](http://weibo.com/deepbass)
 
-##Github page of EAIntroView is <br> https://github.com/magerate/EAIntroView
+##Github page of EAIntroView is https://github.com/magerate/EAIntroView
