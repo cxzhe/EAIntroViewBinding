@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		4078188E1BCDF82300F8F5D4 /* EAIntroView.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 4078188D1BCDF82300F8F5D4 /* EAIntroView.h */; };
 		407818901BCDF82300F8F5D4 /* EAIntroView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4078188F1BCDF82300F8F5D4 /* EAIntroView.m */; };
+		407818981BCDFA6000F8F5D4 /* EAIntroPage.m in Sources */ = {isa = PBXBuildFile; fileRef = 407818971BCDFA6000F8F5D4 /* EAIntroPage.m */; settings = {ASSET_TAGS = (); }; };
+		4078189B1BCDFBC900F8F5D4 /* EARestrictedScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4078189A1BCDFBC900F8F5D4 /* EARestrictedScrollView.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +30,10 @@
 		4078188A1BCDF82300F8F5D4 /* libEAIntroView.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libEAIntroView.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		4078188D1BCDF82300F8F5D4 /* EAIntroView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EAIntroView.h; sourceTree = "<group>"; };
 		4078188F1BCDF82300F8F5D4 /* EAIntroView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EAIntroView.m; sourceTree = "<group>"; };
+		407818961BCDFA6000F8F5D4 /* EAIntroPage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EAIntroPage.h; sourceTree = "<group>"; };
+		407818971BCDFA6000F8F5D4 /* EAIntroPage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EAIntroPage.m; sourceTree = "<group>"; };
+		407818991BCDFBC900F8F5D4 /* EARestrictedScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EARestrictedScrollView.h; sourceTree = "<group>"; };
+		4078189A1BCDFBC900F8F5D4 /* EARestrictedScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EARestrictedScrollView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,10 @@
 		4078188C1BCDF82300F8F5D4 /* EAIntroView */ = {
 			isa = PBXGroup;
 			children = (
+				407818991BCDFBC900F8F5D4 /* EARestrictedScrollView.h */,
+				4078189A1BCDFBC900F8F5D4 /* EARestrictedScrollView.m */,
+				407818961BCDFA6000F8F5D4 /* EAIntroPage.h */,
+				407818971BCDFA6000F8F5D4 /* EAIntroPage.m */,
 				4078188D1BCDF82300F8F5D4 /* EAIntroView.h */,
 				4078188F1BCDF82300F8F5D4 /* EAIntroView.m */,
 			);
@@ -123,6 +133,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				407818901BCDF82300F8F5D4 /* EAIntroView.m in Sources */,
+				4078189B1BCDFBC900F8F5D4 /* EARestrictedScrollView.m in Sources */,
+				407818981BCDFA6000F8F5D4 /* EAIntroPage.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -210,6 +222,7 @@
 		407818941BCDF82300F8F5D4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -219,6 +232,7 @@
 		407818951BCDF82300F8F5D4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;

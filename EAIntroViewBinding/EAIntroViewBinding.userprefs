@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="EAIntroViewBinding/EAIntroViewBinding.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EAIntroViewBinding/EAIntroViewSDK.linkwith.cs">
+    <Files>
+      <File FileName="EAIntroViewBinding/EAIntroViewSDK.linkwith.cs" Line="4" Column="106" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/bass/Projects/EAIntroViewBinding/EAIntroViewBinding/obj/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/bass/Projects/EAIntroViewBinding/EAIntroViewBinding/bin/Release/EAIntroViewBinding.dll.mdb
+/Users/bass/Projects/EAIntroViewBinding/EAIntroViewBinding/bin/Release/EAIntroViewBinding.dll
+/Users/bass/Projects/EAIntroViewBinding/EAIntroViewBinding/obj/Release/EAIntroViewBinding.dll
+/Users/bass/Projects/EAIntroViewBinding/EAIntroViewBinding/obj/Release/EAIntroViewBinding.dll.mdb

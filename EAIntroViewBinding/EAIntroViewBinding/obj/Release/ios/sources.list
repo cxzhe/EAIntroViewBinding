@@ -1,0 +1,7 @@
+obj/Release/ios/ObjCRuntime/Messaging.g.cs
+obj/Release/ios/EAIntroViews/EARestrictedScrollView.g.cs
+obj/Release/ios/EAIntroViews/EAIntroPage.g.cs
+obj/Release/ios/EAIntroViews/EAIntroDelegate.g.cs
+obj/Release/ios/EAIntroViews/EAIntroView.g.cs
+obj/Release/ios/SupportDelegates.g.cs
+obj/Release/ios/ObjCRuntime/Trampolines.g.cs
