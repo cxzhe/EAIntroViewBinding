@@ -20,6 +20,6 @@ cd ~/EAIntroView/EAIntroViewBinding
 sharpie bind -output EAIntroView -namespace EAIntroView -sdk iphoneos9.0 ~/EAIntroView/EAIntroView/EAIntroView.h
 ```
 
-##Binding by cxzhe [Weibo](http://weibo.com/deepbass)
+###Binding by cxzhe [Weibo](http://weibo.com/deepbass)
 
 ##Github page of EAIntroView is <br> https://github.com/magerate/EAIntroView
