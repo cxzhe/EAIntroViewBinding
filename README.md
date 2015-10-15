@@ -4,9 +4,11 @@ EAIntroViewBinding
 ####EAIntroView binding for Xamarin.iOS
 
 ##Develop Environment
-* Objective Sharpie 3.0
-* Xcode 7.0.1
 * OS X OS X 10.10.5 
+* Xcode 7.0.1
+* Xamarin Studio 5.9.7
+* Xamarin.iOS 9.0.1.29
+* Objective Sharpie 3.0
 * SDK IPhoneos 9.0
 
 ##Command Line
