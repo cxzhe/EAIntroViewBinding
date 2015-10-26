@@ -15,7 +15,7 @@ EAIntroViewBinding
 ```bash
 cd ~/EAIntroView
 xcodebuild -sdk iphonesimulator -configuration Release
-xcodebuild -sdk iphoneos -arch armv7 -configuration Release
+xcodebuild -sdk iphoneos -arch armv7 -arch armv7s -arch arm64 -configuration Release
 lipo -create build/Release-iphoneos/libEAIntroView.a build/Release-iphonesimulator/libEAIntroView.a -output EAIntroViewSDK.a
 
 cd ~/EAIntroView/EAIntroViewBinding
